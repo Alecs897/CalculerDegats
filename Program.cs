@@ -3,8 +3,8 @@
 /*
     CONSIGNES
     Dans votre jeu, chaque arme possède une puissance d'attaque.
-    Vous devez créer une méthode CalculerDegats() qui reçoit deux paramètres :
-    - puissanceArme : la puissance de l'arme.
+    Vous devez créer une méthode CalculateWeaponDamage() qui reçoit deux paramètres :
+    - weaponPower : la puissance de l'arme.
     - bonus : le bonus de dégâts du personnage.
     La méthode doit calculer les dégâts totaux et retourner le résultat.
 
