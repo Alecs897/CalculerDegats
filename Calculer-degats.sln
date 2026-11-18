@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculer-degats", "Calculer-degats.csproj", "{EC0A6D78-2716-4D6B-BA79-D12565EB677B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0A6D78-2716-4D6B-BA79-D12565EB677B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0A6D78-2716-4D6B-BA79-D12565EB677B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0A6D78-2716-4D6B-BA79-D12565EB677B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0A6D78-2716-4D6B-BA79-D12565EB677B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
